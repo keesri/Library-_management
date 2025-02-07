@@ -1,0 +1,8 @@
+public class User_return {
+    String user_name;
+    String book_name;
+    public User_return(String user_name, String book_name){
+        this.user_name = user_name;
+        this.book_name = book_name;
+    }
+}
